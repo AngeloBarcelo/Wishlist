@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Personal wish list application</description>
+        <device_type>browser</device_type>
+        <hint>Personal wish list application</hint>
+        <name/>
+        <order/>
+        <roles>x_815306_wishlist.wishlistuser</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>Angelo Barcelo</sys_created_by>
+        <sys_created_on>2023-07-04 22:55:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fdbf44d247b32110fcecafb8036d43a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>WishList</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="WishList" source="x_815306_wishlist">063e881247b32110fcecafb8036d4334</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WishList">063e881247b32110fcecafb8036d4334</sys_scope>
+        <sys_update_name>sys_app_application_fdbf44d247b32110fcecafb8036d43a6</sys_update_name>
+        <sys_updated_by>Angelo Barcelo</sys_updated_by>
+        <sys_updated_on>2023-07-04 22:55:49</sys_updated_on>
+        <title>WishList</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
